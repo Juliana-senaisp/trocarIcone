@@ -16,11 +16,6 @@ i.fa-solid, i.fa-rocket {
     background: none;
 }
 
-/* a.menu:hover, a.menu:hover i.fa-rocket:hover {
-    color: blue !important;
-    background-color: azure;
-} */
-
 .menu:hover i.fa-rocket,
 .menu:hover,
 .fa-solid{
