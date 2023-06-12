@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+}
+
+.menu {
+    background-color: coral;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font: 500 30px 'Poppins', sans-serif;
+    color: white;
+}
+
+i.fa-solid, i.fa-rocket {
+    padding: 0 13px;
+    color: black;
+    background: none;
+}
+
+/* a.menu:hover, a.menu:hover i.fa-rocket:hover {
+    color: blue !important;
+    background-color: azure;
+} */
+
+.menu:hover i.fa-rocket,
+.menu:hover,
+.fa-solid{
+    color: red;
+    background: aqua;
+}
